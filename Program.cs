@@ -5,5 +5,7 @@ class HelloWorld
     {
         string nome = "Mafe";
         Console.WriteLine(nome);
+        string nome_colega = "Livs bestie";
+        Console.WriteLine("\n"nome_colega);
     }
 }
