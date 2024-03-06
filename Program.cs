@@ -5,8 +5,6 @@ class HelloWorld
     {
         string nome = "Mafe";
         Console.WriteLine(nome);
-        string nome_colega = "Livs bestie";
-        Console.WriteLine("\n"nome_colega);
         Console.WriteLine("Sabia que eu tenho poderes? Escolhe um número de 1 a 3 ai");
         int escolha = Convert.ToInt32(Console.ReadLine());
         switch (escolha)
@@ -23,6 +21,7 @@ class HelloWorld
         }
         Console.Clear();
         Console.WriteLine("EU SOU O SUPER PINTADINHO");
+        Console.WriteLine("Obs: o código do super pintadinho foi a maria fernanda, ela alterou a branch dela que eu tinha alterado, muito lerdinha essa querida. \nASS: Lívia que faz a tarefa do jeito certo : ) ");
         Console.ReadLine();
     }
 }
