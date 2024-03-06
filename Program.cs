@@ -3,7 +3,7 @@ class HelloWorld
 {
     static void Main(String[] args)
     {
-        string nome = "Mafe";
+        string nome = "Mafe amiga da Livs";
         Console.WriteLine(nome);
         Console.WriteLine("Sabia que eu tenho poderes? Escolhe um número de 1 a 3 ai");
         int escolha = Convert.ToInt32(Console.ReadLine());
