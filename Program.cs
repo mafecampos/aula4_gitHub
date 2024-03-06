@@ -21,6 +21,7 @@ class HelloWorld
         }
         Console.Clear();
         Console.WriteLine("EU SOU O SUPER PINTADINHO");
+        Console.WriteLine("Obs: o código do super pintadinho foi a maria fernanda querida, ela alterou a branch dela que eu tinha alterado, muito lerdinha essa querida. \nASS: Lívia que faz a tarefa do jeito certo : ) ");
         Console.ReadLine();
     }
 }
